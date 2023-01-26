@@ -1,0 +1,30 @@
+
+.customNav {
+    padding: 10px 10px;
+
+}
+
+.customNav a { 
+    Color: black !important;
+
+}
+
+.customNav a:hover {
+    background-color: black;
+    color: white !important;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important
+}
+
+.heroContent{
+    background-image: url(../images/Fanwar\ Faith\ Cover.png);
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
